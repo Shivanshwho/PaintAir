@@ -10,7 +10,7 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 
 
 
-#Algorithm
+# Algorithm
 
 Start reading the frames and convert the captured frames to HSV colour space.(Easy for colour detection)
 Prepare the canvas frame and put the respective ink buttons on it. 3.. Adjust the trackbar values for finding the mask of coloured marker.
